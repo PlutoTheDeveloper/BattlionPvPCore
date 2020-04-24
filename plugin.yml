@@ -1,0 +1,5 @@
+name: FFA
+main: Core\FFA\Main
+version: 1.0
+api: [4.0.0, 3.0.0]
+author: PlutoTheDeveloper
